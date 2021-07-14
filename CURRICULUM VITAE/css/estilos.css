@@ -1,0 +1,48 @@
+
+main {
+    margin: 9%;
+    display: block;
+}
+
+h2{
+    color:#005677;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+h1{
+    background-color: rgb(189, 184, 184);
+}
+header{
+    background-color: rgb(223, 223, 219);
+    letter-spacing: 5px;
+    color:#005677;
+    text-align: center;
+}
+h2{
+    background-color: rgb(189, 184, 184);
+    padding: 12px
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+
+footer p {
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: #005677;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    }
+
+span{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 19px;
+    }
+   
